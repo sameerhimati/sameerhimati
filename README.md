@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+**About me:** I'm a MLE part time and part time I like finding was of using ML to apply in various non technical industries to kinda make my life smoother! right now I'm thinking about something cool on financial data modelling and something cool on Real estate data! Mostly these topics cuz I'm an investor part time so I wanna make those paths efficient for myself. Anyway if you got any question just shoot me a message!
+
+Also you will find my previous side projects, either at interships or at school. Just stuff i did to stay engaged and you'll see mostly those on my profile, but they are really good if you want an idea to perhaps stay engaged with ML in some form!
+
+
+- 🔭 I’m currently working on a couple of secrets!
+- 🌱 I’m currently learning Transformer's, its been a while since i graduated and i lost touch so I'm catching up!
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sameerhimati/)
+
 <!--
 **sameerhimati/sameerhimati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
