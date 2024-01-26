@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**About me:** I'm a MLE part time and part time I like finding was of using ML to apply in various non technical industries to kinda make my life smoother! right now I'm thinking about something cool on financial data modelling and something cool on Real estate data! Mostly these topics cuz I'm an investor part time so I wanna make those paths efficient for myself. Anyway if you got any question just shoot me a message!
+**About me:** I'm an MLE, Investor and part time I like finding was of using ML to apply in various non technical industries to kinda make my life smoother! right now I'm thinking about something cool on financial data modelling and something cool on Real estate data! Mostly these topics cuz I'm an investor part time so I wanna make those paths efficient for myself. Anyway if you got any question just shoot me a message!
 
 Also you will find my previous side projects, either at interships or at school. Just stuff i did to stay engaged and you'll see mostly those on my profile, but they are really good if you want an idea to perhaps stay engaged with ML in some form!
 
