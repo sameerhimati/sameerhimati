@@ -32,7 +32,7 @@ COMING_SOON = {
     "memo-writer":      {"emoji": "📝", "desc": "Evidence-linked CRE deal memo generation"},
     "skip-tracer":      {"emoji": "🔍", "desc": "Owner contact skip tracing via DealMachine"},
     "voice-caller":     {"emoji": "📞", "desc": "AI voice calling agent for owner outreach"},
-    "browser-playground":{"emoji": "🌐", "desc": "Browser-based playground"},
+    "browser-playground":{"emoji": "🌐", "desc": "Minimal CLI for driving a browser with Claude"},
     "termpad":           {"emoji": "💻", "desc": "Terminal notepad"},
 }
 
