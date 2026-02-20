@@ -1,6 +1,6 @@
 # Sameer Himati
 
-Tinkerer. I just like building stuff.
+[Tinkerer. I just like building stuff.](https://www.sameerhimati.com)
 
 ## Projects
 
