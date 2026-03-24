@@ -7,7 +7,7 @@ Tinkerer. I just like building stuff.
 | | Project | Description | Updated |
 |---|---------|-------------|---------|
 | 📱 | [Learnt](https://github.com/sameerhimati/Learnt) | iOS app for tracking daily learnings | Feb 2026 |
-| 🛠️ | [claude-code-kit](https://github.com/sameerhimati/claude-code-kit) | Dev skills and agents for Claude Code | Feb 2026 |
+| 🛠️ | [claude-code-kit](https://github.com/sameerhimati/claude-code-kit) | Dev skills and agents for Claude Code | Mar 2026 |
 | 📣 | [claude-marketing-kit](https://github.com/sameerhimati/claude-marketing-kit) | Marketing skills for Claude Code | Feb 2026 |
 | ✍️ | [blogpost](https://github.com/sameerhimati/blogpost) | CLI tool for creating blog post markdown files | Feb 2026 |
 | 📚 | [PaperBuddy](https://github.com/sameerhimati/PaperBuddy) | Read papers better and retain more knowledge | Apr 2025 |
