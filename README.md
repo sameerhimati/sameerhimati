@@ -1,36 +1,30 @@
 # Sameer Himati
 
-Tinkerer. I just like building stuff.
+Building for real businesses. [itamih.com](https://itamih.com) | [thefend.com](https://thefend.com) | [blog](https://sameerhimati.com/blog)
 
-## Projects
+## What I'm Building
 
-| | Project | Description | Updated |
-|---|---------|-------------|---------|
-| 📱 | [Learnt](https://github.com/sameerhimati/Learnt) | iOS app for tracking daily learnings | Feb 2026 |
-| 🛠️ | [claude-code-kit](https://github.com/sameerhimati/claude-code-kit) | Dev skills and agents for Claude Code | Mar 2026 |
-| 📣 | [claude-marketing-kit](https://github.com/sameerhimati/claude-marketing-kit) | Marketing skills for Claude Code | Feb 2026 |
-| ✍️ | [blogpost](https://github.com/sameerhimati/blogpost) | CLI tool for creating blog post markdown files | Feb 2026 |
-| 📚 | [PaperBuddy](https://github.com/sameerhimati/PaperBuddy) | Read papers better and retain more knowledge | Apr 2025 |
-| 📈 | [economic-dashboard](https://github.com/sameerhimati/economic-dashboard) | Economic data dashboard | Oct 2025 |
-| 🌳 | [PapersApplied-ID3](https://github.com/sameerhimati/PapersApplied-ID3) | Implementation of J.R. Quinlan's ID3 paper | Feb 2025 |
-| 🔗 | [PapersApplied-Apriori](https://github.com/sameerhimati/PapersApplied-Apriori) | Implementation of Agrawal's Association Rule paper | Feb 2025 |
-| 📊 | [Analysing_SEC_Filings](https://github.com/sameerhimati/Analysing_SEC_Filings) | NLP on M&A filings from the SEC | Jul 2020 |
-| 🔇 | [muteAd](https://github.com/sameerhimati/muteAd) | Chrome extension that mutes ads on streaming platforms | Oct 2024 |
-| ⚡ | [Pokeman-Langchains](https://github.com/sameerhimati/Pokeman-Langchains) | LangChain exploration | Mar 2024 |
+| | Project | What it does |
+|---|---------|-------------|
+| 🏢 | **Atlas** | AI-powered commercial real estate investment — agent swarms that find, analyze, and execute on deals |
+| 🏥 | **Clinic** | Full rewrite of a 20-year-old dental hospital system. 36K patients, live in production |
+| 🔍 | **FundLens** | Grant prospecting for nonprofits — filters 10K+ foundations, scores alignment with AI |
+| 💰 | **Holding** | Family wealth dashboard — multi-currency, multi-entity portfolio tracking |
+| 🌐 | **[Fend](https://thefend.com)** | Members-only professional network for founders, operators, and investors |
+| 🔇 | **[AdMute](https://github.com/sameerhimati/muteAd)** | Chrome extension that mutes ads on streaming platforms |
 
-## Coming Soon
+## Open Source
 
 | | Project | Description |
 |---|---------|-------------|
-| 🏢 | [costar-puller](https://github.com/sameerhimati/costar-puller) | Browser agent that automates CoStar CSV exports |
-| 🏠 | [property-scorer](https://github.com/sameerhimati/property-scorer) | Scores CRE properties on motivated seller signals |
-| 💰 | [underwriter](https://github.com/sameerhimati/underwriter) | CRE financial modeling and pro forma engine |
-| 📊 | [comp-puller](https://github.com/sameerhimati/comp-puller) | Market comparable data extraction and benchmarking |
-| 📇 | [contact-enricher](https://github.com/sameerhimati/contact-enricher) | Enriches property owner records from public sources |
-| 📦 | [deal-boxer](https://github.com/sameerhimati/deal-boxer) | Filters properties against investment criteria |
-| 🏷️ | [entity-classifier](https://github.com/sameerhimati/entity-classifier) | Classifies property owner names into entity types |
-| 📝 | [memo-writer](https://github.com/sameerhimati/memo-writer) | Evidence-linked CRE deal memo generation |
-| 🔍 | [skip-tracer](https://github.com/sameerhimati/skip-tracer) | Owner contact skip tracing via DealMachine |
-| 📞 | [voice-caller](https://github.com/sameerhimati/voice-caller) | AI voice calling agent for owner outreach |
-| 🌐 | [browser-playground](https://github.com/sameerhimati/browser-playground) | Minimal CLI for driving a browser with Claude |
-| 💻 | [termpad](https://github.com/sameerhimati/termpad) | Terminal notepad |
+| 🛠️ | [claude-code-kit](https://github.com/sameerhimati/claude-code-kit) | 14 dev skills and 5 agents for Claude Code |
+| 📣 | [claude-marketing-kit](https://github.com/sameerhimati/claude-marketing-kit) | Marketing skills for Claude Code |
+
+## Research & Learning
+
+| | Project | Description |
+|---|---------|-------------|
+| 📚 | [PaperBuddy](https://github.com/sameerhimati/PaperBuddy) | Read ML papers better and retain more |
+| 🌳 | [PapersApplied-ID3](https://github.com/sameerhimati/PapersApplied-ID3) | Implementation of Quinlan's ID3 decision tree paper |
+| 🔗 | [PapersApplied-Apriori](https://github.com/sameerhimati/PapersApplied-Apriori) | Implementation of Agrawal's association rules paper |
+| 📈 | [economic-dashboard](https://github.com/sameerhimati/economic-dashboard) | Economic indicators dashboard |
