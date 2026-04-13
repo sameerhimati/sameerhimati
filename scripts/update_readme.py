@@ -19,21 +19,6 @@ PROJECTS = {
     "Analysing_SEC_Filings": {"emoji": "📊", "desc": "NLP on M&A filings from the SEC"},
 }
 
-COMING_SOON = {
-    "costar-puller":    {"emoji": "🏢", "desc": "Browser agent that automates CoStar CSV exports"},
-    "property-scorer":  {"emoji": "🏠", "desc": "Scores CRE properties on motivated seller signals"},
-    "underwriter":      {"emoji": "💰", "desc": "CRE financial modeling and pro forma engine"},
-    "comp-puller":      {"emoji": "📊", "desc": "Market comparable data extraction and benchmarking"},
-    "contact-enricher": {"emoji": "📇", "desc": "Enriches property owner records from public sources"},
-    "deal-boxer":       {"emoji": "📦", "desc": "Filters properties against investment criteria"},
-    "entity-classifier":{"emoji": "🏷️", "desc": "Classifies property owner names into entity types"},
-    "memo-writer":      {"emoji": "📝", "desc": "Evidence-linked CRE deal memo generation"},
-    "skip-tracer":      {"emoji": "🔍", "desc": "Owner contact skip tracing via DealMachine"},
-    "voice-caller":     {"emoji": "📞", "desc": "AI voice calling agent for owner outreach"},
-    "browser-playground":{"emoji": "🌐", "desc": "Minimal CLI for driving a browser with Claude"},
-    "termpad":           {"emoji": "💻", "desc": "Terminal notepad"},
-}
-
 def fetch_repos():
     """Fetch all public repos via gh CLI."""
     result = subprocess.run(
