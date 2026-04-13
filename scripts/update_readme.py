@@ -12,13 +12,11 @@ PROJECTS = {
     "claude-code-kit":       {"emoji": "🛠️", "desc": "Dev skills and agents for Claude Code"},
     "claude-marketing-kit":  {"emoji": "📣", "desc": "Marketing skills for Claude Code"},
     "blogpost":              {"emoji": "✍️", "desc": "CLI tool for creating blog post markdown files"},
-    "PaperBuddy":            {"emoji": "📚", "desc": "Read papers better and retain more knowledge"},
     "economic-dashboard":    {"emoji": "📈", "desc": "Economic data dashboard"},
+    "PaperBuddy":            {"emoji": "📚", "desc": "Read papers better and retain more knowledge"},
     "PapersApplied-ID3":     {"emoji": "🌳", "desc": "Implementation of J.R. Quinlan's ID3 paper"},
     "PapersApplied-Apriori": {"emoji": "🔗", "desc": "Implementation of Agrawal's Association Rule paper"},
     "Analysing_SEC_Filings": {"emoji": "📊", "desc": "NLP on M&A filings from the SEC"},
-    "muteAd":                {"emoji": "🔇", "desc": "Chrome extension that mutes ads on streaming platforms"},
-    "Pokeman-Langchains":    {"emoji": "⚡", "desc": "LangChain exploration"},
 }
 
 COMING_SOON = {
@@ -58,7 +56,8 @@ def format_date(iso_date):
 def generate_readme(repos):
     lines = [
         "# Sameer Himati\n",
-        "Tinkerer. I just like building stuff.\n",
+        "I love reading, starting companies, and investing. Currently building **Atlas**, an AI-native investment firm for private markets. Also founded **[Itamih](https://itamih.com)** (AI integration for small businesses) and **[Fend](https://thefend.com)** (a members-only startup network). More coming soon.\n",
+        "[sameerhimati.com](https://sameerhimati.com) · [itamih.com](https://itamih.com) · [thefend.com](https://thefend.com)\n",
         "## Projects\n",
         "| | Project | Description | Updated |",
         "|---|---------|-------------|---------|",
