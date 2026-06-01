@@ -1,6 +1,6 @@
 # Sameer Himati
 
-I love reading, starting companies, and investing. Currently building **Atlas**, an AI-native investment firm for private markets. Also founded **[Itamih](https://itamih.com)** (AI integration for small businesses) and **[Fend](https://thefend.com)** (a members-only startup network). More coming soon.
+I love reading, starting companies, and investing. Currently just moved to SF and trying to [write](https://sameerhimati.com/blog) more. Previously worked on **Atlas**, an AI-native investment firm for private markets. Also founded **[Itamih](https://itamih.com)** (AI integration for small businesses) and **[Fend](https://thefend.com)** (a members-only startup network). More coming soon.
 
 [sameerhimati.com](https://sameerhimati.com) · [itamih.com](https://itamih.com) · [thefend.com](https://thefend.com)
 
