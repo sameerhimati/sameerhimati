@@ -1,19 +1,24 @@
 # Sameer Himati
 
-I love reading, starting companies, and investing. Currently just moved to SF and trying to [write](https://sameerhimati.com/blog) more. Previously worked on **Atlas**, an AI-native investment firm for private markets. Also founded **[Itamih](https://itamih.com)** (AI integration for small businesses) and **[Fend](https://thefend.com)** (a members-only startup network). More coming soon.
+I build AI products for real problems.
 
-[sameerhimati.com](https://sameerhimati.com) · [itamih.com](https://itamih.com) · [thefend.com](https://thefend.com)
+Right now I'm building **[Bean](https://bean.itamih.com/join)** — an assistant that drafts customer-support replies and flags the ones it isn't sure about instead of guessing. [Join the beta →](https://bean.itamih.com/join)
+
+I run **[Itamih](https://itamih.com)**, forward-deployed AI for small businesses since 2023 — most recently a from-scratch practice-management system that runs daily at a dental hospital. Before that I built **[Fend](https://thefend.com)** (an invite-only network for the startup ecosystem) solo, ground up.
+
+In SF. [sameerhimati.com](https://sameerhimati.com)
 
 ## Projects
 
-| | Project | Description | Updated |
-|---|---------|-------------|---------|
-| 📱 | [Learnt](https://github.com/sameerhimati/Learnt) | iOS app for tracking daily learnings | Feb 2026 |
-| 🛠️ | [claude-code-kit](https://github.com/sameerhimati/claude-code-kit) | Dev skills and agents for Claude Code | Mar 2026 |
-| 📣 | [claude-marketing-kit](https://github.com/sameerhimati/claude-marketing-kit) | Marketing skills for Claude Code | Feb 2026 |
-| ✍️ | [blogpost](https://github.com/sameerhimati/blogpost) | CLI tool for creating blog post markdown files | Feb 2026 |
-| 📈 | [economic-dashboard](https://github.com/sameerhimati/economic-dashboard) | Economic data dashboard | Oct 2025 |
-| 📚 | [PaperBuddy](https://github.com/sameerhimati/PaperBuddy) | Read papers better and retain more knowledge | Apr 2025 |
-| 🌳 | [PapersApplied-ID3](https://github.com/sameerhimati/PapersApplied-ID3) | Implementation of J.R. Quinlan's ID3 paper | Feb 2025 |
-| 🔗 | [PapersApplied-Apriori](https://github.com/sameerhimati/PapersApplied-Apriori) | Implementation of Agrawal's Association Rule paper | Feb 2025 |
-| 📊 | [Analysing_SEC_Filings](https://github.com/sameerhimati/Analysing_SEC_Filings) | NLP on M&A filings from the SEC | Jul 2020 |
+| Project | What it is |
+|---|---|
+| [sourcery](https://github.com/sameerhimati/sourcery) | Retrieval-eval harness for web-search APIs. Same query, same judge — swap only the provider. Finding: Firecrawl extracts 3× more sources than Bright Data and answers worse. |
+| [LibStack](https://github.com/sameerhimati/LibStack) | Offline-capable reading viewer. IndexedDB write queue with retry classification; a Cloudflare Worker syncs highlights back to GitHub with optimistic concurrency. |
+| [claude-code-kit](https://github.com/sameerhimati/claude-code-kit) | My Claude Code setup — skills, agents, hooks, rules. |
+| [nanogpt-mlx](https://github.com/sameerhimati/nanogpt-mlx) | Building a GPT from scratch by hand in MLX. Every line typed by me. In progress. |
+
+## Writing
+
+- [A Month Off Code](https://sameerhimati.com/blog/a-month-off-code)
+- [Outside the Agentic Loop](https://sameerhimati.com/blog/outside-the-agentic-loop)
+- [All Machine Learning Is a Measure of Surprise](https://sameerhimati.com/blog/all-machine-learning-is-a-measure-of-surprise)
