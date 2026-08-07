@@ -44,11 +44,17 @@ PRODUCTION = [
         "link_label": "Case study",
     },
     {
+        # The only one here that is both in production AND open. Two links on purpose:
+        # the demo is the thing you can touch in three seconds, the repo is the durable
+        # half -- if the Railway service ever goes away the demo link dies and the code
+        # does not. Never link bean.itamih.com from here; that is the customer's instance.
         "name": "Bean",
         "desc": "Support-email agent that drafts replies grounded only in facts it can source, "
                 "and refuses to draft when it isn't confident instead of guessing.",
-        "link": "https://bean.itamih.com/join",
-        "link_label": "Join the beta",
+        "link": "https://bean-demo-production.up.railway.app",
+        "link_label": "Try the demo",
+        "link2": "https://github.com/sameerhimati/bean-app",
+        "link2_label": "Code",
     },
     {
         "name": "Atlas",
@@ -116,14 +122,14 @@ def generate_readme(repos):
 
     lines += [
         "## In production\n",
-        "Built for real businesses. People depend on these, so the repos are private and these "
-        "link to the write-up.\n",
+        "Built for real businesses. People depend on them, so most of these repos stay private "
+        "and the link goes to the write-up instead. Bean is the exception.\n",
     ]
     for project in PRODUCTION:
-        lines.append(
-            f'- **{project["name"]}** — {project["desc"]} '
-            f'[{project["link_label"]} →]({project["link"]})'
-        )
+        links = f'[{project["link_label"]} →]({project["link"]})'
+        if project.get("link2"):
+            links += f' · [{project["link2_label"]} →]({project["link2"]})'
+        lines.append(f'- **{project["name"]}** — {project["desc"]} {links}')
     lines.append("")
 
     lines += [

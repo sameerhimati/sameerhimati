@@ -10,10 +10,10 @@ Before this I built **[Fend](https://thefend.com)** solo, front to back, a B2B-p
 
 ## In production
 
-Built for real businesses. People depend on these, so the repos are private and these link to the write-up.
+Built for real businesses. People depend on them, so most of these repos stay private and the link goes to the write-up instead. Bean is the exception.
 
 - **Clinic** — From-scratch practice-management system that replaced a 26-year-old on-premise setup at a dental hospital. In daily use by doctors, billing, and ops. [Case study →](https://itamih.com/case-studies/clinic)
-- **Bean** — Support-email agent that drafts replies grounded only in facts it can source, and refuses to draft when it isn't confident instead of guessing. [Join the beta →](https://bean.itamih.com/join)
+- **Bean** — Support-email agent that drafts replies grounded only in facts it can source, and refuses to draft when it isn't confident instead of guessing. [Try the demo →](https://bean-demo-production.up.railway.app) · [Code →](https://github.com/sameerhimati/bean-app)
 - **Atlas** — Private-markets agent platform for CRE. It ran end to end on real deals. Wound down May 2026, because the constraint was access rather than analysis. [Post-mortem →](https://itamih.com/case-studies/atlas)
 
 ## Open source
