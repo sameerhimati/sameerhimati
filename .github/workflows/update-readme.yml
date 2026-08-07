@@ -1,9 +1,11 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: '0 6 * * *'  # daily at 6am UTC
-  workflow_dispatch:       # manual trigger
+  # Daily cron removed 2026-08-07. It pushed a commit most mornings, which meant a bot
+  # authored the top of the profile, buried real commits under "Auto-update README", and
+  # silently reverted hand edits -- it re-published a stale job title the same day it was
+  # corrected. Manual only now: run it from the Actions tab when the dates need a refresh.
+  workflow_dispatch:
 
 jobs:
   update:
