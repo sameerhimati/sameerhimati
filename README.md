@@ -4,7 +4,7 @@ I build AI systems for businesses I already have direct access to. I find the pr
 
 Most of what I care about comes down to one habit: a system should refuse before it guesses. Per-field confidence, provenance on every number, and a rule that routes the uncertain cases to a person.
 
-Previously technical co-founder at **[Fend](https://thefend.com)**, where I built a B2B-pilots marketplace solo, front to back, 0 to 1,000+ users. Before that an ML engineer at Fundmore.ai, doing document extraction for mortgage origination. In SF.
+Before this I built **[Fend](https://thefend.com)** solo, front to back, a B2B-pilots marketplace that went 0 to 1,000+ users. And before that, document extraction for mortgage origination at Fundmore. In SF.
 
 [sameerhimati.com](https://sameerhimati.com) · [Projects](https://sameerhimati.com/projects) · [Writing](https://sameerhimati.com/blog)
 

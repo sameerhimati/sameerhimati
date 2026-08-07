@@ -22,9 +22,12 @@ BIO = [
     "Most of what I care about comes down to one habit: a system should refuse before it "
     "guesses. Per-field confidence, provenance on every number, and a rule that routes the "
     "uncertain cases to a person.\n",
-    "Previously technical co-founder at **[Fend](https://thefend.com)**, where I built a "
-    "B2B-pilots marketplace solo, front to back, 0 to 1,000+ users. Before that an ML engineer "
-    "at Fundmore.ai, doing document extraction for mortgage origination. In SF.\n",
+    # No job titles here on purpose. This is a dev profile, not a resume -- the work and the
+    # kind of business it was for, not the role I held while doing it. It also means this file
+    # can never contradict the resume, because it makes no claim the resume could disagree with.
+    "Before this I built **[Fend](https://thefend.com)** solo, front to back, a B2B-pilots "
+    "marketplace that went 0 to 1,000+ users. And before that, document extraction for "
+    "mortgage origination at Fundmore. In SF.\n",
     "[sameerhimati.com](https://sameerhimati.com) · "
     "[Projects](https://sameerhimati.com/projects) · "
     "[Writing](https://sameerhimati.com/blog)\n",
